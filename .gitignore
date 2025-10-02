@@ -1,0 +1,27 @@
+# Build artifacts
+/build/
+/CMakeFiles/
+/CMakeCache.txt
+/cmake_install.cmake
+/Makefile
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+
+# Tests
+/test-results/
+
+# Binaries
+/**/*.exe
+/**/*.out
+/**/*.o
+/**/*.obj
+/**/*.a
+/**/*.lib
+/**/*.dll
+/**/*.dylib
